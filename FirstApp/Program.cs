@@ -6,4 +6,4 @@ Console.WriteLine("Enter second number:");
 int b = int.Parse(Console.ReadLine());
 int c = a + b;
 Console.WriteLine("Result : "+ c);
-Console.WriteLine("Salam");
+Console.WriteLine("End");
